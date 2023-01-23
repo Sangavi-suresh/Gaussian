@@ -18,9 +18,9 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
   4. using nested for loop
 
-  5.use back substitution method to find the value of variables
+     5.use back substitution method to find the value of variables
 
-  6.print the output
+    6.print the output
 
 ## Program:
 ```python
